@@ -1,0 +1,13 @@
+C:\Users\YeisonPX\source\repos\maquina-productos-11\maquina-productos-11\obj\Debug\netcoreapp3.1\maquina-productos-11.csprojAssemblyReference.cache
+C:\Users\YeisonPX\source\repos\maquina-productos-11\maquina-productos-11\obj\Debug\netcoreapp3.1\maquina-productos-11.AssemblyInfoInputs.cache
+C:\Users\YeisonPX\source\repos\maquina-productos-11\maquina-productos-11\obj\Debug\netcoreapp3.1\maquina-productos-11.AssemblyInfo.cs
+C:\Users\YeisonPX\source\repos\maquina-productos-11\maquina-productos-11\obj\Debug\netcoreapp3.1\maquina-productos-11.csproj.CoreCompileInputs.cache
+C:\Users\YeisonPX\source\repos\maquina-productos-11\maquina-productos-11\bin\Debug\netcoreapp3.1\maquina-productos-11.exe
+C:\Users\YeisonPX\source\repos\maquina-productos-11\maquina-productos-11\bin\Debug\netcoreapp3.1\maquina-productos-11.deps.json
+C:\Users\YeisonPX\source\repos\maquina-productos-11\maquina-productos-11\bin\Debug\netcoreapp3.1\maquina-productos-11.runtimeconfig.json
+C:\Users\YeisonPX\source\repos\maquina-productos-11\maquina-productos-11\bin\Debug\netcoreapp3.1\maquina-productos-11.runtimeconfig.dev.json
+C:\Users\YeisonPX\source\repos\maquina-productos-11\maquina-productos-11\bin\Debug\netcoreapp3.1\maquina-productos-11.dll
+C:\Users\YeisonPX\source\repos\maquina-productos-11\maquina-productos-11\bin\Debug\netcoreapp3.1\maquina-productos-11.pdb
+C:\Users\YeisonPX\source\repos\maquina-productos-11\maquina-productos-11\obj\Debug\netcoreapp3.1\maquina-productos-11.dll
+C:\Users\YeisonPX\source\repos\maquina-productos-11\maquina-productos-11\obj\Debug\netcoreapp3.1\maquina-productos-11.pdb
+C:\Users\YeisonPX\source\repos\maquina-productos-11\maquina-productos-11\obj\Debug\netcoreapp3.1\maquina-productos-11.genruntimeconfig.cache
